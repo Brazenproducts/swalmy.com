@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 132px;
+    height: 96px;
 }
 
 .logo {
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo-img {
-    height: 104px;
+    height: 72px;
     width: auto;
     display: block;
     object-fit: contain;
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
 /* ===== HERO ===== */
 .hero {
     background: linear-gradient(160deg, var(--od-green-dark) 0%, var(--od-green) 40%, var(--navy) 100%);
-    padding: 160px 24px 100px;
+    padding: 132px 24px 100px;
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Page Hero (inner pages) */
 .page-hero {
     background: linear-gradient(160deg, var(--od-green-dark) 0%, var(--od-green) 100%);
-    padding: 140px 24px 80px;
+    padding: 124px 24px 80px;
     text-align: center;
 }
 
