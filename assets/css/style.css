@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 90px;
+    height: 108px;
 }
 
 .logo {
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo-img {
-    height: 68px;
+    height: 84px;
     width: auto;
     display: block;
     object-fit: contain;
