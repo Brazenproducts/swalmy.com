@@ -103,6 +103,13 @@ h1, h2, h3, h4, h5, h6 {
     gap: 10px;
 }
 
+.logo-img {
+    height: 50px;
+    width: auto;
+    display: block;
+    object-fit: contain;
+}
+
 .logo-text {
     font-family: var(--font-heading);
     font-size: 1.6rem;
